@@ -5,6 +5,8 @@ package logica;
  */
 public class Main {
 
+	// Martin Alvarado Lafferte 22.330.833-3 ICCI
+
 	/**
 	 * Sistema utilizado por el programa
 	 */
@@ -20,6 +22,11 @@ public class Main {
 	 * 
 	 */
 	public static void main(String[] args) {
+
+		// Martin Alvarado Lafferte 22.330.833-3 ICCI
+
+
+		
 		
 		sistema.leerArchivo();
 		ventana.crearVentana();
