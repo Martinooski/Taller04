@@ -5,21 +5,10 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.File;
 import java.util.ArrayList;
+import javax.swing.*;
+import dominio.*;
+import visitor.*;
 
-import javax.swing.BoxLayout;
-import javax.swing.ImageIcon;
-import javax.swing.JDialog;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JTable;
-
-import dominio.Carta;
-import dominio.CartaEnergy;
-import dominio.CartaItem;
-import dominio.CartaPokemon;
-import dominio.CartaSupporter;
-import visitor.CalcularPoder;
 
 /**
  * @author Martin Alvarado
